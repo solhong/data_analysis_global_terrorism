@@ -40,7 +40,27 @@ Data was collected from open-source Global Terrorism Database, which was organiz
 - Motive
 
 ---
+### 2. Visualize the number of terror of each year
+*Clearly the number of terrorist activities have gone up sharply **after 2000**.*
+![image](https://user-images.githubusercontent.com/89971178/142785527-d06a76e7-1c95-443c-b8de-9f993314c3d2.png)
 
+---
+### 3. Compare and analysis number of the death and injured of top 10 country
+
+![image](https://user-images.githubusercontent.com/89971178/142785761-3715077c-0c62-4514-81d0-eecd7e637f2a.png)
+*The number of killed is almost 3 folds more than attacks for Iraq.*
+![image](https://user-images.githubusercontent.com/89971178/142785729-776dd4a3-afff-4fe3-827c-52b41906096f.png)
+
+---
+### 4. Compare and analysis attack types 
+**Bombing and Explosion** are the highest attacktype by terrorists.
+![image](https://user-images.githubusercontent.com/89971178/142785539-8961401f-bc8a-43c0-9c54-c910e4c33206.png)
+
+The most target group of terrorism is **Private Citizens and Property**. 
+![image](https://user-images.githubusercontent.com/89971178/142785599-992ebb69-079e-4f62-a438-40ccc2e534e9.png)
+
+---
+### 5. Compare anad analysis how the impact of terrorism changed over years
 
 
 
