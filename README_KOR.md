@@ -100,6 +100,6 @@ Most victims of terrorism are innocent citizens who find themselves at the wrong
 
 ---
 ### Reference
-[The Cost of the War on Terrorism. 2021]<https://www.vox.com/22654167/cost-deaths-war-on-terror-afghanistan-iraq-911>
+[The Cost of the War on Terrorism. 2021](https://www.vox.com/22654167/cost-deaths-war-on-terror-afghanistan-iraq-911)
 
 
