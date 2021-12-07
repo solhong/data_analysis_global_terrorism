@@ -1,4 +1,4 @@
-# Global Terrorism Analysis
+# Global Terrorism Data Analysis
 ---
 ## Purpose
 > **Definition of Terrorism**  
