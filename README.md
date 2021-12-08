@@ -8,14 +8,11 @@
 
 
 ## List of Data Analysis Projects  
-1. Visualize the number of CCTVs compared to the number of the populations in Seoul, South Korea to identify areas with the highest number of CCTVs  
-([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/01.Data_Analysis_Seoul_CCTV.ipynb))  
+1. Visualize the number of CCTVs compared to the number of the populations in Seoul, South Korea to identify areas with the highest number of CCTVs. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/01.Data_Analysis_Seoul_CCTV.ipynb))  
 
-2. Analysis of the correlation between the number of CCTVs in Seoul, South Korea and the crime arrest rate  
-([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/02.Data_Analysis_Seoul_Crime.ipynb))  
+2. Analysis of the correlation between the number of CCTVs in Seoul, South Korea and the crime arrest rate. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/02.Data_Analysis_Seoul_Crime.ipynb))  
 
-3. Identify areas of population of South Korea extinction through data analysis  
-([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/03.Data_Analysis_Population.ipynb))  
+3. Identify areas of population of South Korea extinction through data analysis. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/03.Data_Analysis_Population.ipynb))  
 
 ------
 
