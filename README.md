@@ -27,9 +27,12 @@
 
 
 ## 지금까지 진행한 데이터 분석 프로젝트  
-1. 서울시 구별 인구수 대비 CCTV 수를 시각화하여 CCTV가 가장 많은 구 확인
-2. 서울시 구별 CCTV 수와 범죄 검거율의 상관관계를 분석
-3. 한국의 인구 소멸 지역 확인
-4. 글로벌 테러리즘 데이터 분석 및 시각화
+1. 서울시 구별 인구수 대비 CCTV 수를 시각화하여 CCTV가 가장 많은 구 확인. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/01.Data_Analysis_Seoul_CCTV.ipynb))  
+
+2. 서울시 구별 CCTV 수와 범죄 검거율의 상관관계를 분석. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/02.Data_Analysis_Seoul_Crime.ipynb))
+
+3. 한국의 인구 소멸 지역 확인. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/03.Data_Analysis_Population.ipynb))
+
+4. 글로벌 테러리즘 데이터 분석 및 시각화. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/Global_Terrorism.md))
 
 
