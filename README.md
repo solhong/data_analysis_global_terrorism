@@ -12,7 +12,9 @@
 
 2. Analysis of the correlation between the number of CCTVs in Seoul, South Korea and the crime arrest rate. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/02.Data_Analysis_Seoul_Crime.ipynb))  
 
-3. Identify areas of population of South Korea extinction through data analysis. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/03.Data_Analysis_Population.ipynb))  
+3. Identify areas of population of South Korea extinction through data analysis. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/03.Data_Analysis_Population.ipynb))
+
+4. Visualize global terrorism data to raise critical perspectives. ([Jupyter Notebook](https://github.com/solhong/data_analysis_social_issues/blob/main/Global_Terrorism.md))
 
 ------
 
@@ -24,9 +26,10 @@
 2. 공유한 코드를 보고 누구나 공공데이터를 활용하여 사회 문제에 대해 함께 고민할 수 있도록 장려합니다. 
 
 
-## 지금까지 진행한 데이터 분석
+## 지금까지 진행한 데이터 분석 프로젝트  
 1. 서울시 구별 인구수 대비 CCTV 수를 시각화하여 CCTV가 가장 많은 구 확인
 2. 서울시 구별 CCTV 수와 범죄 검거율의 상관관계를 분석
 3. 한국의 인구 소멸 지역 확인
+4. 글로벌 테러리즘 데이터 분석 및 시각화
 
 
